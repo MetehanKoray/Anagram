@@ -1,0 +1,7 @@
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\bin\Debug\Anagram.exe
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\obj\Debug\Anagram.exe
+C:\Users\mkora\OneDrive\Masaüstü\Anagram\Anagram\Anagram\obj\Debug\Anagram.pdb
